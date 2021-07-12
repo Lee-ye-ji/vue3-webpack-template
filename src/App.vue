@@ -1,5 +1,5 @@
 <template>
-  <app>{{ message }}</app>
+  <h1>{{ message }}</h1>
   <HelloWorld />  
 </template>
 
